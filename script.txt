@@ -1,0 +1,17 @@
+git clone https://github.com/Isaac2/Analisis_Dis_Cons_Software/
+cd Analisis_Dis_Cons_Software/
+pip install prospector
+prospector
+
+Check Information
+=================
+         Started: 2021-04-14 21:59:14.858259
+        Finished: 2021-04-14 21:59:15.400771
+      Time Taken: 0.54 seconds
+       Formatter: grouped
+        Profiles: default, no_doc_warnings, no_test_warnings, strictness_medium, strictness_high, strictness_veryhigh, no_member_warnings
+      Strictness: None
+  Libraries Used:
+       Tools Run: dodgy, mccabe, pep8, profile-validator, pyflakes, pylint
+  Messages Found: 0
+
